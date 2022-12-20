@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\bin\Debug\net6.0\task001.exe
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\bin\Debug\net6.0\task001.deps.json
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\bin\Debug\net6.0\task001.runtimeconfig.json
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\bin\Debug\net6.0\task001.dll
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\bin\Debug\net6.0\ref\task001.dll
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\bin\Debug\net6.0\task001.pdb
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.GlobalUsings.g.cs
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.AssemblyInfo.cs
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.dll
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\ref\task001.dll
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.pdb
+C:\Users\admin\Desktop\Учеба черновик\Workshop 2 Basic algorithms\task001\obj\Debug\net6.0\task001.genruntimeconfig.cache
